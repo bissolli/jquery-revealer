@@ -1,19 +1,19 @@
 {
-    "name": "jquery-appear",
+    "name": "jquery-reveal",
     "version": "1.0.0",
-    "description": "jQuery plugin to make elements appear on scrolling",
-    "main": "jquery.appear.min.js",
+    "description": "jQuery plugin to reveal elements on scrolling",
+    "main": "jquery.reveal.min.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bissolli/jquery-appear.git"
+        "url": "git+https://github.com/bissolli/jquery-reveal.git"
     },
     "author": "Gustavo Bissolli <gustavo.bissolli@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/bissolli/jquery-appear/issues"
+        "url": "https://github.com/bissolli/jquery-reveal/issues"
     },
-    "homepage": "https://github.com/bissolli/jquery-appear#readme"
+    "homepage": "https://github.com/bissolli/jquery-reveal#readme"
 }

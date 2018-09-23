@@ -1,1 +1,1 @@
-# jquery-appear
+# jquery-reveal
