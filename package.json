@@ -1,0 +1,19 @@
+{
+    "name": "jquery-appear",
+    "version": "1.0.0",
+    "description": "jQuery plugin to make elements appear on scrolling",
+    "main": "jquery.appear.min.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bissolli/jquery-appear.git"
+    },
+    "author": "Gustavo Bissolli <gustavo.bissolli@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bissolli/jquery-appear/issues"
+    },
+    "homepage": "https://github.com/bissolli/jquery-appear#readme"
+}
