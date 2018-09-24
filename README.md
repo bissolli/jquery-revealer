@@ -1,1 +1,1 @@
-# jquery-reveal
+# jquery-revealer
