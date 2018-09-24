@@ -1,7 +1,5 @@
 # jquery-revealer
-Simple lightweight jQuery plugin to reveal elements on scrolling
-
-[DEMO](https://bissolli.github.io/jquery-revealer/)
+Simple lightweight jQuery plugin to reveal elements on scrolling - [DOCS](https://bissolli.github.io/jquery-revealer/)
 
 ## Getting Started
 
