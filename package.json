@@ -1,19 +1,24 @@
 {
-    "name": "jquery-reveal",
+    "name": "jquery-revealer",
     "version": "1.0.0",
-    "description": "jQuery plugin to reveal elements on scrolling",
-    "main": "jquery.reveal.min.js",
+    "description": "Simple lightweight jQuery plugin to reveal elements on scrolling",
+    "main": "dist/jquery.revealer.min.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bissolli/jquery-reveal.git"
+        "url": "git+https://github.com/bissolli/jquery-revealer.git"
     },
     "author": "Gustavo Bissolli <gustavo.bissolli@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/bissolli/jquery-reveal/issues"
+        "url": "https://github.com/bissolli/jquery-revealer/issues"
     },
-    "homepage": "https://github.com/bissolli/jquery-reveal#readme"
+    "homepage": "https://github.com/bissolli/jquery-revealer#readme",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-rename": "^1.4.0",
+        "gulp-uglify": "^3.0.1"
+    }
 }
