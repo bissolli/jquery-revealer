@@ -7,18 +7,18 @@ Simple lightweight jQuery plugin to reveal elements on scrolling
 
 ### 1. Install package using NPM or download it from the repository;
 ```bash
-    npm install jquery-revealer --save
+npm install jquery-revealer --save
 ```
 
 ### 2. Require [jQuery](https://jquery.com/) and Revealer
 ```html
-    <script src="jquery.min.js"></script>
-    <script src="jquery.revealer.min.js"></script>
+<script src="jquery.min.js"></script>
+<script src="jquery.revealer.min.js"></script>
 ```
 or
 ```javascript
-    require('jquery');
-    require('jquery-revealer');
+require('jquery');
+require('jquery-revealer');
 ```
 
 ### 3. Include [animate.css](http://daneden.github.io/animate.css/)
@@ -32,17 +32,24 @@ or
 
 ### 4. Add data attributes
 ```html
-    <div data-animate="fadeInUp" data-duration="1.0s" data-delay="0.1s" data-iteration="1">see animation</div>
+<div data-animate="fadeInUp" data-duration="1.0s" data-delay="0.1s" data-iteration="1">see animation</div>
 ```
 
 ### 5. Call Revealer
 ```javascript
-    $('[data-animate]').revealer();
+$('[data-animate]').revealer();
 ```
+
 
 ## JavaScript Options
 ```javascript
-    $('[data-animate]').revealer({
-        mobile: false // disable animation on mobiles
-    });
+$('[data-animate]').revealer({
+    mobile: false // disable animation on mobiles
+});
+```
+
+
+## Methods
+```javascript
+$('[data-animate]').revealer('bind');
 ```
