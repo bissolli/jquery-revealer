@@ -1,12 +1,11 @@
-<p align="center">
-    <h1>jQuery Revealer</h1>
-    <p>Simple lightweight jQuery plugin to reveal elements on scrolling - <a href="https://bissolli.github.io/jquery-revealer/">DOCS</a></p>
-    <a href="https://www.npmjs.com/package/jquery-revealer"><img src="https://img.shields.io/npm/v/jquery-revealer.svg"></a>
-    <a href="https://www.npmjs.com/package/jquery-revealer"><img src="https://img.shields.io/npm/dt/jquery-revealer.svg"></a>
-    <a href="https://github.com/bissolli/jquery-revealer/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/jquery-revealer.svg"></a>
-    <a href="https://github.com/bissolli/jquery-revealer/stargazers"><img src="https://img.shields.io/github/stars/bissolli/jquery-revealer.svg"></a>
-    <a href="https://github.com/bissolli/jquery-revealer"><img src="http://img.badgesize.io/https://unpkg.com/jquery-revealer?compression=gzip"></a>
-</p>
+# jQuery Revealer
+Simple lightweight jQuery plugin to reveal elements on scrolling - [DOCS](https://bissolli.github.io/jquery-revealer/)
+
+[![npm](https://img.shields.io/npm/v/jquery-revealer.svg)](https://www.npmjs.com/package/jquery-revealer)
+[![npm](https://img.shields.io/npm/dt/jquery-revealer.svg)](https://www.npmjs.com/package/jquery-revealer)
+[![npm](https://img.shields.io/npm/l/jquery-revealer.svg)](https://github.com/bissolli/jquery-revealer/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/bissolli/jquery-revealer.svg)](https://github.com/bissolli/jquery-revealer/stargazers)
+[![gzip size](http://img.badgesize.io/https://unpkg.com/jquery-revealer?compression=gzip)](https://github.com/bissolli/jquery-revealer)
 
 ## Getting Started
 
