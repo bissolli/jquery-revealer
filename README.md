@@ -57,3 +57,8 @@ $('[data-animate]').revealer({
 ```javascript
 $('[data-animate]').revealer('bind');
 ```
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/bissolli/jquery-revealer/badge.svg?style=beer-square)](https://beerpay.io/bissolli/jquery-revealer)  [![Beerpay](https://beerpay.io/bissolli/jquery-revealer/make-wish.svg?style=flat-square)](https://beerpay.io/bissolli/jquery-revealer?focus=wish)
